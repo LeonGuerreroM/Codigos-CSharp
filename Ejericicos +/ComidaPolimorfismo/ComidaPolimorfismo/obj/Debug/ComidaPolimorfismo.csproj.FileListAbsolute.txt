@@ -1,0 +1,6 @@
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\ComidaPolimorfismo\ComidaPolimorfismo\bin\Debug\ComidaPolimorfismo.exe.config
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\ComidaPolimorfismo\ComidaPolimorfismo\bin\Debug\ComidaPolimorfismo.exe
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\ComidaPolimorfismo\ComidaPolimorfismo\bin\Debug\ComidaPolimorfismo.pdb
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\ComidaPolimorfismo\ComidaPolimorfismo\obj\Debug\ComidaPolimorfismo.csprojResolveAssemblyReference.cache
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\ComidaPolimorfismo\ComidaPolimorfismo\obj\Debug\ComidaPolimorfismo.exe
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\ComidaPolimorfismo\ComidaPolimorfismo\obj\Debug\ComidaPolimorfismo.pdb

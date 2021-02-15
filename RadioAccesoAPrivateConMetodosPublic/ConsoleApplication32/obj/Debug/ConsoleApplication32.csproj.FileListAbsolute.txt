@@ -1,0 +1,6 @@
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication32\ConsoleApplication32\bin\Debug\ConsoleApplication32.exe.config
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication32\ConsoleApplication32\bin\Debug\ConsoleApplication32.exe
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication32\ConsoleApplication32\bin\Debug\ConsoleApplication32.pdb
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication32\ConsoleApplication32\obj\Debug\ConsoleApplication32.csprojResolveAssemblyReference.cache
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication32\ConsoleApplication32\obj\Debug\ConsoleApplication32.exe
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication32\ConsoleApplication32\obj\Debug\ConsoleApplication32.pdb

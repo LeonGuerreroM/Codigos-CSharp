@@ -1,0 +1,6 @@
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\BancaEnLinea\BancaEnLinea\bin\Debug\BancaEnLinea.exe.config
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\BancaEnLinea\BancaEnLinea\obj\Debug\BancaEnLinea.csprojResolveAssemblyReference.cache
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\BancaEnLinea\BancaEnLinea\bin\Debug\BancaEnLinea.exe
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\BancaEnLinea\BancaEnLinea\bin\Debug\BancaEnLinea.pdb
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\BancaEnLinea\BancaEnLinea\obj\Debug\BancaEnLinea.exe
+c:\users\leonm\onedrive\documentos\visual studio 2015\Projects\BancaEnLinea\BancaEnLinea\obj\Debug\BancaEnLinea.pdb
